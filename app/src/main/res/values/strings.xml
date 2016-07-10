@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Simulador2</string>
+    <string name="hint_buscar">Buscar nombre</string>
+    <string name="carga_fragmento">Fragmento Principal</string>
+    <string name="valor_minimo">Mínimo</string>
+    <string name="valor_maximo">Máximo</string>
+
+    <!-- Opciones de menu -->
+    <string name="optCarga">Carga automatica</string>
+    <string name="optAgregar">Agregar</string>
+    <string name="optBuscar">Buscar</string>
+    <string name="opcBDV">Borrar datos vendedor</string>
+    <string name="opc2">Opción 2</string>
+</resources>
